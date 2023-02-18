@@ -42,3 +42,16 @@ To not have any downtime for the application we are developing I will be adding 
 ![Crudder App - Logical Design](assets/LogicalDiagram.jpeg)
 
 [Crudder - Logical Design - Lucid Link](https://lucid.app/lucidchart/7499576e-322b-4ee6-ac2a-a6dbf2d18a22/edit?viewport_loc=-2219%2C-781%2C2236%2C1076%2C0_0&invitationId=inv_6adda1da-418c-4afe-9022-f7b4bb3b8b1a)
+
+## Homework Challenges
+
+### Exploring Account
+
+<ul>
+  <li>Completed setting up MFA for roor account and IAM user account</li>
+  <li>Explored how to create roles and policies. Created policies using Aws policy Generator</li>
+  <li>Created IAM roles to access S3 bucket. Created this just to get an overview of the IAM roles and policies creation</li>
+</ul>
+
+![MFA Setup](assets/MFASetup.png)
+
